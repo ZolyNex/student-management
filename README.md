@@ -48,7 +48,6 @@
     - 支持实时数据更新
 
     
-
 3. **路由管理**
 
     - 使用 React Router 实现页面导航
@@ -59,14 +58,6 @@
 
     - 集成 Supabase Storage 实现文件上传功能
     - 支持头像等图片资源的管理
-
-## 项目结构
-
-- `src/features/`: 功能模块
-- `src/services/`: API 服务层
-- `src/utils/`: 工具函数
-- `src/atoms/`: Jotai 状态定义
-- `src/ui/`: 通用UI组件
 
 ## 开发环境
 
