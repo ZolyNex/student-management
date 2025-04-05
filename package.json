@@ -1,0 +1,30 @@
+{
+  "name": "student-management",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.4",
+    "@tailwindcss/vite": "^4.0.17",
+    "jotai": "^2.12.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router": "^7.4.1",
+    "sonner": "^2.0.3",
+    "tailwindcss": "^4.0.17"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^9.6.0",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "daisyui": "^5.0.9",
+    "vite": "^6.2.0"
+  }
+}
